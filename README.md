@@ -6,7 +6,7 @@ Mark and unmark a task as done.
 
 
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src=".github/todo.gif" />
+    <img alt="Todo" title="Todo" src=".github/todo.gif" />
 </h1>
 
 <br>
